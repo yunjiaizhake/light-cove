@@ -1,5 +1,15 @@
 [
   {
+    "slug": "light-cove-first-day",
+    "title": "Light-Cove",
+    "tags": [],
+    "date": "2026-03-19T16:26",
+    "summary": "部署Light-Cove的第一天，值得纪念",
+    "cover": "/blogs/light-cove-first-day/63ee0115b1d14e8c.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "cursor-keyboard",
     "title": "Cursor 快捷键",
     "tags": [
