@@ -1,5 +1,18 @@
 [
   {
+    "slug": "css-mask-currentColor",
+    "title": "改变图标颜色，仅需一个css属性",
+    "tags": [
+      "css",
+      "图标变色"
+    ],
+    "date": "2026-03-20T15:49",
+    "summary": "以mask为笔，currentColor为墨，让图标随hover轻盈变色，无需冗余代码，借继承之力，藏细节巧思，让交互更具质感与灵动。",
+    "cover": "/blogs/css-mask-currentColor/3269e445657383fe.png",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "light-cove-first-day",
     "title": "Light-Cove",
     "tags": [],
